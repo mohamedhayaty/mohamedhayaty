@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**mohamedhayaty/mohamedhayaty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+Hello! I'm Mohamed Hayaty, a seasoned Data Analyst with a Master's degree in Big Data Analytics and Data Science from Northumbria University. My career is marked by a passion for transforming data into actionable insights and driving business growth through data-driven strategies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm dedicated to continuous learning and professional growth. I seek opportunities to contribute to cutting-edge data science and analytics initiatives that make a significant impact on data-driven business solutions. Feel free to explore my GitHub repository for more details on my work.
+
+## Skills
+- Proficient in SQL, Python, Google BigQuery, MS Excel, SPSS.
+- Experienced with Tableau.
+- Strong background in data analysis, and machine learning.
+
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedhayaty)](https://github.com/anuraghazra/github-readme-stats)
