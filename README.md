@@ -11,6 +11,7 @@ I'm a data dnalyst & scientist with a Master's degree in Big Data Analytics and 
 - SQL
 - Excel
 - Tableau
+- Power BI
 - SPSS
 
 
